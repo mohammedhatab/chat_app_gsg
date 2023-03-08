@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248222019875",
+    "project_id": "my-chat-app-gsg",
+    "storage_bucket": "my-chat-app-gsg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248222019875:android:c2c73164afaf5add061c96",
+        "android_client_info": {
+          "package_name": "com.oalshokri.chat_app_class"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248222019875-a8q8p9bv5478ui4pqm31nkrvgbmirc0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT7w1c19GgOLFuq0OOVX6wio9pmtSvJm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248222019875-a8q8p9bv5478ui4pqm31nkrvgbmirc0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
